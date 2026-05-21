@@ -1,7 +1,8 @@
 <div align="center">
   
-  <!-- Animated Typing Header -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=650&lines=Hi+%F0%9F%91%8B+I'm+Ketki+Mude;Software+Engineer+%7C+Data+%7C+AI%2FML;Full+Stack+Developer;2.5%2B+Years+of+Experience" alt="Typing SVG" /></a>
+  # Hi 👋 I'm Ketki Mude
+  
+  **Software Engineer · Data · AI/ML · Full Stack Developer**
 
   <br/>
   
@@ -89,7 +90,7 @@ Now I'm at **Leading Cities, Inc.** as a Full Stack Developer, building an innov
 
 ## 🎓 Education
 
-<img width="20" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Northeastern_seal.svg" /> **Northeastern University** · Master of Science in Information Systems · Dec 2025
+**Northeastern University** · Master of Science in Information Systems · Dec 2025
 
 Coursework: Data Science with Python · Machine Learning · Program Structure & Algorithms · Big Data
 
@@ -106,20 +107,20 @@ Coursework: Data Science with Python · Machine Learning · Program Structure & 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Cloud & Data Platforms
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-web-services&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 
 ### AI/ML & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-00C7B7?style=for-the-badge&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -181,16 +182,6 @@ Coursework: Data Science with Python · Machine Learning · Program Structure & 
   
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketki-mude&layout=compact&theme=tokyonight&hide_border=true" />
 
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=ketki-mude&theme=tokyonight&no-frame=true&row=1&column=7)
-  
 </div>
 
 ---
