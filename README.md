@@ -21,7 +21,7 @@
 
 ## 🙋‍♀️ About Me
 
-I'm a software engineer who loves building things end-to-end — from data pipelines that process millions of rows to ML models that make predictions to the full-stack apps that bring it all together. I don't like being boxed into one role because the most interesting problems sit at the intersection of data, AI/ML, and software engineering.
+I'm a software engineer who loves building things end-to-end - from data pipelines that process millions of rows to ML models that make predictions to the full-stack apps that bring it all together. I don't like being boxed into one role because the most interesting problems sit at the intersection of data, AI/ML, and software engineering.
 
 My journey started at **Persistent Systems** in India, where I spent 2+ years in the trenches of banking software — building real-time fraud detection systems with Kafka, migrating data warehouses to Snowflake, and learning what "production-grade" really means when banks depend on your code. I went from writing SQL queries across 10M+ row datasets to architecting entire ETL workflows on AWS.
 
