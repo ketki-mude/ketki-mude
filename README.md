@@ -2,7 +2,7 @@
   
   # Hi 👋 I'm Ketki Mude
   
-  **Software Engineer · Data · AI/ML · Full Stack Developer**
+  **Software Engineer · Data Engineer · AI/ML · Full Stack Developer**
 
   <br/>
   
