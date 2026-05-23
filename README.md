@@ -148,21 +148,6 @@ Coursework: Data Science with Python, Machine Learning, Program Structure & Algo
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ketki-mude&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ketki-mude&theme=tokyonight&hide_border=true" />
-  
-  <br/>
-  
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketki-mude&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 <div align="center">
   
   **Open to opportunities in Software Engineering, Data Engineering, AI/ML & Full-Stack Development**
