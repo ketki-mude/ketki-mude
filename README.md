@@ -6,30 +6,26 @@
 
   <br/>
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ketki-mude/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.datascienceportfol.io/ketkimude137)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ketkimude@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ketki-mude)
-  
-  <br/>
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=ketki-mude&color=blueviolet&style=flat-square&label=Profile+Views)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ketki-mude/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-4A4A4A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.datascienceportfol.io/ketkimude137)
+  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ketkimude@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ketki-mude)
   
 </div>
 
 ---
 
-## 🙋‍♀️ About Me
+## About Me
 
-I'm a software engineer who loves building things end-to-end - from data pipelines that process millions of rows to ML models that make predictions to the full-stack apps that bring it all together. I don't like being boxed into one role because the most interesting problems sit at the intersection of data, AI/ML, and software engineering.
+I'm a software engineer with 2.5+ years of experience across data engineering, AI/ML, and full-stack development.
 
-My journey started at **Persistent Systems** in India, where I spent 2+ years in the trenches of banking software — building real-time fraud detection systems with Kafka, migrating data warehouses to Snowflake, and learning what "production-grade" really means when banks depend on your code. I went from writing SQL queries across 10M+ row datasets to architecting entire ETL workflows on AWS.
+I started my career at **Persistent Systems**, a multinational IT company in India, where my client was **HDFC Bank** — one of the largest private banks in the country. I was on the data engineering team responsible for credit-risk and compliance reporting systems. The bank needed to track millions of customer transactions daily for credit-risk analysis, detect suspicious transactions in real-time for fraud, and report everything to regulators accurately and on time. I built and optimized the data pipelines that made all of that happen — batch ETL for overnight reporting and real-time streaming for fraud detection. Working in banking taught me what "production-grade" actually means — when regulators are waiting on your data, there's no room for fragile pipelines.
 
-I came to the US to push myself further — pursued my **MS in Information Systems at Northeastern University**, where I got to go deeper into machine learning, big data systems, and building things from scratch. The highlight was working as a **Research Assistant** with scientists at Pacific Northwest National Laboratory (PNNL), where I built ML pipelines on Databricks processing 20+ GB of proteomic data. Training XGBoost models on 350K+ biological samples was very different from banking ETLs — and that's exactly why I loved it.
+That experience pushed me to go deeper. I moved to the US and pursued my **MS in Information Systems at Northeastern University**, where I focused on machine learning, big data, and building systems from scratch. During that time, I worked as a **Research Assistant** collaborating with scientists at **Pacific Northwest National Laboratory (PNNL)** on microbial proteomics — a completely different domain, but the same core challenge of processing and making sense of large-scale data.
 
-Now I'm at **Leading Cities, Inc.** as a Full Stack Developer, building an innovation platform that connects startups with city governments and investors. I'm designing multi-agent workflows with RAG, Pinecone, and LangGraph on the backend, while integrating HubSpot CRM on the business side. It's the kind of project where I get to touch everything — and that's where I do my best work.
+Right now, I'm at **Leading Cities, Inc.** as a Full Stack Developer, building an innovation platform that connects startups with city governments and investors. It's the kind of project where I get to touch everything — backend AI workflows, CRM integrations, and the user-facing application — and that's where I do my best work.
 
-> **What my resume won't tell you:** I'm someone who gets genuinely excited about understanding *how* systems work, not just making them work. I'd rather spend an extra day building something the right way than shipping something fragile. I believe good engineering is about making trade-offs thoughtfully, not chasing every new tool.
+> I'm someone who cares about building things the right way. I'd rather spend an extra day on a reliable solution than ship something fragile. Good engineering is about making trade-offs thoughtfully, not chasing every new tool.
 
 ---
 
@@ -39,13 +35,13 @@ Now I'm at **Leading Cities, Inc.** as a Full Stack Developer, building an innov
   <tr>
     <td width="140" align="center">
       <br/>
-      <b>2026 → Now</b>
+      <b>2026 – Now</b>
       <br/><br/>
     </td>
     <td>
-      <b>🚀 Full Stack Developer</b> · <i>Leading Cities, Inc., Boston</i>
+      <b>Full Stack Developer</b> · <i>Leading Cities, Inc., Boston</i>
       <br/><br/>
-      Building an innovation platform with multi-agent RAG architecture · Pinecone vector search · LangGraph orchestration · HubSpot CRM integration for deal lifecycle tracking · Serving three distinct user experiences (startups, cities, investors)
+      Building an innovation platform that evaluates startups, matches them to city government challenges, and connects investors. Multi-agent RAG architecture, vector search, CRM integration, three distinct user experiences.
     </td>
   </tr>
   <tr>
@@ -55,9 +51,9 @@ Now I'm at **Leading Cities, Inc.** as a Full Stack Developer, building an innov
       <br/><br/>
     </td>
     <td>
-      <b>🔬 Research Assistant</b> · <i>Northeastern University / PNNL</i>
+      <b>Research Assistant</b> · <i>Northeastern University / PNNL</i>
       <br/><br/>
-      ML pipeline on Databricks · PySpark processing 20+ GB proteomic data · 50+ bacterial species · XGBoost on 350K+ samples · Mentored incoming students on ML workflows
+      ML pipeline on Databricks processing 20+ GB of proteomic data across 50+ bacterial species. Feature engineering, model training on 350K+ samples, mentoring incoming students on ML workflows.
     </td>
   </tr>
   <tr>
@@ -67,21 +63,21 @@ Now I'm at **Leading Cities, Inc.** as a Full Stack Developer, building an innov
       <br/><br/>
     </td>
     <td>
-      <b>⚡ Senior Software Engineer</b> · <i>Persistent Systems, India</i>
+      <b>Senior Software Engineer</b> · <i>Persistent Systems (Client: HDFC Bank)</i>
       <br/><br/>
-      Kafka streaming → real-time fraud detection · Snowflake + dbt migration → <b>40% faster queries, 30% cost reduction</b> · Airflow DAGs for credit-risk ETL · AWS (S3, Glue, Redshift)
+      Led the Snowflake migration with dbt, built real-time Kafka streaming for fraud detection, automated ETL orchestration with Airflow. <b>40% faster queries, 30% cost reduction.</b>
     </td>
   </tr>
   <tr>
     <td width="140" align="center">
       <br/>
-      <b>2021–23</b>
+      <b>2021 – 23</b>
       <br/><br/>
     </td>
     <td>
-      <b>💻 Software Engineer</b> · <i>Persistent Systems, India</i>
+      <b>Software Engineer</b> · <i>Persistent Systems (Client: HDFC Bank)</i>
       <br/><br/>
-      SQL optimization across 10M+ rows · Power BI dashboards for 200+ stakeholders · CI/CD with GitHub Actions → <b>20% faster deployments</b> · Statistical modeling for data-driven decisions
+      Optimized SQL on 10M+ row datasets, built Power BI dashboards for 200+ stakeholders, set up CI/CD pipelines on AWS. Foundation work that enabled everything built afterward.
     </td>
   </tr>
 </table>
@@ -90,58 +86,58 @@ Now I'm at **Leading Cities, Inc.** as a Full Stack Developer, building an innov
 
 ## 🎓 Education
 
-**Northeastern University** · Master of Science in Information Systems · Dec 2025
+**Northeastern University** · MS in Information Systems · Dec 2025
 
-Coursework: Data Science with Python · Machine Learning · Program Structure & Algorithms · Big Data
+Coursework: Data Science with Python, Machine Learning, Program Structure & Algorithms, Big Data
 
 ---
 
 ## 🛠️ What I Build With
 
 <div align="center">
-  
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Cloud & Data Platforms
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-web-services&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+#### Languages
+![Python](https://img.shields.io/badge/Python-306998?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-5382A1?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-C2B230?style=flat-square&logo=javascript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-### AI/ML & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-00C7B7?style=for-the-badge&logoColor=white)
+#### Cloud & Data Platforms
+![AWS](https://img.shields.io/badge/AWS-1A2433?style=flat-square&logo=amazon-web-services&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-1D9FD7?style=flat-square&logo=snowflake&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-CC3621?style=flat-square&logo=databricks&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1D63AD?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-2260A8?style=flat-square&logo=kubernetes&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-1A1A1A?style=flat-square&logo=apache-kafka&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-0168AA?style=flat-square&logo=apache-airflow&logoColor=white)
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+#### AI/ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-D45B00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-C03C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-D08518?style=flat-square&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-2A7A6E?style=flat-square&logoColor=white)
 
-### Frameworks & Tools
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+#### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2F5E8D?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-2B5E86?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-A32A1C?style=flat-square&logo=redis&logoColor=white)
+
+#### Frameworks & Tools
+![FastAPI](https://img.shields.io/badge/FastAPI-057A6E?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-C43636?style=flat-square&logo=streamlit&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-1A1A1A?style=flat-square&logo=nextdotjs&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-D45237?style=flat-square&logo=dbt&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-C8A515?style=flat-square&logo=powerbi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-C44427?style=flat-square&logo=git&logoColor=white)
+![HubSpot](https://img.shields.io/badge/HubSpot-D4562B?style=flat-square&logo=hubspot&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-0D7ACF?style=flat-square&logo=salesforce&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Projects I'm Proud Of
-
-> These aren't just coursework — each one solves a real problem and is built the way I'd build it at work.
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -160,14 +156,12 @@ Coursework: Data Science with Python · Machine Learning · Program Structure & 
 
 </div>
 
-### What These Projects Demonstrate
-
-| Skill Area | Project | What It Proves |
-|:---:|---|---|
-| 🔄 **Data Engineering** | [SEC Financial Data Pipeline](https://github.com/ketki-mude/SEC_Financial_Data_Processing) | I can design production-style ETL — Airflow orchestration → S3 staging → Snowflake warehouse → dbt transformations → real-time dashboard |
-| 🤖 **AI/ML + NLP** | [RAG Pipeline with Airflow](https://github.com/ketki-mude/RAG_Pipeline_with_Airflow) | I understand retrieval-augmented generation end-to-end — OCR extraction, three chunking strategies, vector search with Pinecone & ChromaDB |
-| 📊 **Data Pipelines** | [FRED Currency Exchange](https://github.com/ketki-mude/FRED_Currency_Exchange_Pipeline) | I can pull from external APIs, transform data, and build automated processing workflows |
-| 📄 **Full Stack + NLP** | [PDF Summarizer & QA](https://github.com/Damg7245-BigDataIntelligence/LLM_Based_PDF_Summarizer_and_QA) | I can build user-facing applications backed by LLM-powered document analysis |
+| Project | What It Demonstrates |
+|---|---|
+| **SEC Financial Data Pipeline** | Production-style batch ETL — Airflow orchestration, S3 staging, Snowflake warehouse, dbt transformations, real-time Streamlit dashboard |
+| **RAG Pipeline with Airflow** | Handling unstructured data end-to-end — automated PDF/web extraction, OCR, multiple chunking strategies, vector search with Pinecone & ChromaDB |
+| **FRED Currency Exchange** | Incremental data pipelines — Snowpark, Snowflake Tasks & Streams, CI/CD with GitHub Actions for automated deployments |
+| **PDF Summarizer & QA** | Full-stack application backed by LLM-powered document analysis — FastAPI backend, NLP processing, user-facing interface |
 
 ---
 
@@ -186,21 +180,10 @@ Coursework: Data Science with Python · Machine Learning · Program Structure & 
 
 ---
 
-## 🌱 What I'm Currently Up To
-
-- 🔨 Building production features at Leading Cities with RAG + LangGraph
-- 📚 Deepening my knowledge of distributed systems and system design
-- 🤝 Open to collaborating on data engineering and AI/ML projects
-- 💬 Always happy to chat about data pipelines, ML systems, or career journeys
-
----
-
 <div align="center">
   
-  **📫 Open to opportunities in Software Engineering, Data Engineering, AI/ML & Full-Stack Development**
+  **Open to opportunities in Software Engineering, Data Engineering, AI/ML & Full-Stack Development**
   
-  *If something here resonated with you, let's connect — I'm always up for a good conversation.*
-  
-  [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ketki-mude/)
+  [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ketki-mude/)
   
 </div>
