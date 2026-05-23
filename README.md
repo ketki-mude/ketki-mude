@@ -201,6 +201,6 @@ Coursework: Data Science with Python · Machine Learning · Program Structure & 
   
   *If something here resonated with you, let's connect — I'm always up for a good conversation.*
   
-  [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ketkimude)
+  [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ketki-mude/)
   
 </div>
