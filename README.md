@@ -2,12 +2,12 @@
   
   # Hi 👋 I'm Ketki Mude
   
-  **Software Engineer · Data Engineer · AI/ML · Full Stack Developer**
+  **Software Engineer · Data · AI/ML · Full Stack Developer**
 
   <br/>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ketki-mude/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-4A4A4A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.datascienceportfol.io/ketkimude137)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-1A8A7D?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.datascienceportfol.io/ketkimude137)
   [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ketkimude@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ketki-mude)
   
@@ -19,11 +19,11 @@
 
 I'm a software engineer with 2.5+ years of experience across data engineering, AI/ML, and full-stack development.
 
-I started my career at **Persistent Systems**, a multinational IT company in India, where my client was **HDFC Bank** — one of the largest private banks in the country. I was on the data engineering team responsible for credit-risk and compliance reporting systems. The bank needed to track millions of customer transactions daily for credit-risk analysis, detect suspicious transactions in real-time for fraud, and report everything to regulators accurately and on time. I built and optimized the data pipelines that made all of that happen — batch ETL for overnight reporting and real-time streaming for fraud detection. Working in banking taught me what "production-grade" actually means — when regulators are waiting on your data, there's no room for fragile pipelines.
+I started my career at **Persistent Systems**, a multinational IT company in India, where my client was **HDFC Bank**, one of the largest private banks in the country. I was on the data engineering team responsible for credit-risk and compliance reporting systems. The bank needed to track millions of customer transactions daily for credit-risk analysis, detect suspicious transactions in real-time for fraud, and report everything to regulators accurately and on time. I built and optimized the data pipelines that made all of that happen, both batch ETL for overnight reporting and real-time streaming for fraud detection. Working in banking taught me what "production-grade" actually means. When regulators are waiting on your data, there's no room for fragile pipelines.
 
-That experience pushed me to go deeper. I moved to the US and pursued my **MS in Information Systems at Northeastern University**, where I focused on machine learning, big data, and building systems from scratch. During that time, I worked as a **Research Assistant** collaborating with scientists at **Pacific Northwest National Laboratory (PNNL)** on microbial proteomics — a completely different domain, but the same core challenge of processing and making sense of large-scale data.
+That experience pushed me to go deeper. I moved to the US and pursued my **MS in Information Systems at Northeastern University**, where I focused on machine learning, big data, and building systems from scratch. During that time, I worked as a **Research Assistant** collaborating with scientists at **Pacific Northwest National Laboratory (PNNL)** on microbial proteomics, a completely different domain but the same core challenge of processing and making sense of large-scale data.
 
-Right now, I'm at **Leading Cities, Inc.** as a Full Stack Developer, building an innovation platform that connects startups with city governments and investors. It's the kind of project where I get to touch everything — backend AI workflows, CRM integrations, and the user-facing application — and that's where I do my best work.
+Right now, I'm at **Leading Cities, Inc.** as a Full Stack Developer, building an innovation platform that connects startups with city governments and investors. It's the kind of project where I get to touch everything: backend AI workflows, CRM integrations, and the user-facing application. That's where I do my best work.
 
 > I'm someone who cares about building things the right way. I'd rather spend an extra day on a reliable solution than ship something fragile. Good engineering is about making trade-offs thoughtfully, not chasing every new tool.
 
@@ -139,29 +139,12 @@ Coursework: Data Science with Python, Machine Learning, Program Structure & Algo
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/ketki-mude/SEC_Financial_Data_Processing">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ketki-mude&repo=SEC_Financial_Data_Processing&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/ketki-mude/RAG_Pipeline_with_Airflow">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ketki-mude&repo=RAG_Pipeline_with_Airflow&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/ketki-mude/FRED_Currency_Exchange_Pipeline">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ketki-mude&repo=FRED_Currency_Exchange_Pipeline&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Damg7245-BigDataIntelligence/LLM_Based_PDF_Summarizer_and_QA">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Damg7245-BigDataIntelligence&repo=LLM_Based_PDF_Summarizer_and_QA&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
 | Project | What It Demonstrates |
 |---|---|
-| **SEC Financial Data Pipeline** | Production-style batch ETL — Airflow orchestration, S3 staging, Snowflake warehouse, dbt transformations, real-time Streamlit dashboard |
-| **RAG Pipeline with Airflow** | Handling unstructured data end-to-end — automated PDF/web extraction, OCR, multiple chunking strategies, vector search with Pinecone & ChromaDB |
-| **FRED Currency Exchange** | Incremental data pipelines — Snowpark, Snowflake Tasks & Streams, CI/CD with GitHub Actions for automated deployments |
-| **PDF Summarizer & QA** | Full-stack application backed by LLM-powered document analysis — FastAPI backend, NLP processing, user-facing interface |
+| [**SEC Financial Data Pipeline**](https://github.com/ketki-mude/SEC_Financial_Data_Processing) | Production-style batch ETL with Airflow orchestration, S3 staging, Snowflake warehouse, dbt transformations, and a real-time Streamlit dashboard |
+| [**RAG Pipeline with Airflow**](https://github.com/ketki-mude/RAG_Pipeline_with_Airflow) | Handling unstructured data end-to-end with automated PDF/web extraction, OCR, multiple chunking strategies, and vector search using Pinecone and ChromaDB |
+| [**FRED Currency Exchange**](https://github.com/ketki-mude/FRED_Currency_Exchange_Pipeline) | Incremental data pipelines using Snowpark, Snowflake Tasks and Streams, with CI/CD through GitHub Actions for automated deployments |
+| [**PDF Summarizer & QA**](https://github.com/Damg7245-BigDataIntelligence/LLM_Based_PDF_Summarizer_and_QA) | Full-stack application with LLM-powered document analysis, FastAPI backend, NLP processing, and a user-facing interface |
 
 ---
 
