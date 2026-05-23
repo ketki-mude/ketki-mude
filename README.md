@@ -142,7 +142,8 @@ Coursework: Data Science with Python, Machine Learning, Program Structure & Algo
 |---|---|
 | [**SEC Financial Data Pipeline**](https://github.com/ketki-mude/SEC_Financial_Data_Processing) | Production-style batch ETL with Airflow, S3, Snowflake, dbt transformations, and a real-time Streamlit dashboard |
 | [**RAG Pipeline with Airflow**](https://github.com/ketki-mude/RAG_Pipeline_with_Airflow) | Handling unstructured data end-to-end: automated PDF/web extraction, OCR, multiple chunking strategies, vector search with Pinecone and ChromaDB |
-| [**FRED Currency Exchange**](https://github.com/ketki-mude/FRED_Currency_Exchange_Pipeline) | Incremental data pipelines with Snowpark, Snowflake Tasks and Streams, CI/CD through GitHub Actions |
+| [**Real Estate Investment Assistant**](https://github.com/Data-Insight-Grid/Real_Estate_Investment_Assistant) | Multi-agent system with 6 specialized AI agents, Snowflake for structured data, Pinecone for semantic search, containerized with Docker |
+| [**InvestorIntel.Ai**](https://github.com/Data-Insight-Grid/InvestorIntel.Ai) | Investment analysis platform with 5 LangGraph agents, RAG pipeline with Pinecone, streaming APIs, and A/B tested prompt strategies |
 | [**PDF Summarizer & QA**](https://github.com/Damg7245-BigDataIntelligence/LLM_Based_PDF_Summarizer_and_QA) | Full-stack application with LLM-powered document analysis, FastAPI backend, and user-facing interface |
 
 ---
