@@ -9,7 +9,6 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ketki-mude/)
   [![Portfolio](https://img.shields.io/badge/Portfolio-1A8A7D?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.datascienceportfol.io/ketkimude137)
   [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ketkimude@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ketki-mude)
   
 </div>
 
@@ -17,15 +16,15 @@
 
 ## About Me
 
-I'm a software engineer with 2.5+ years of experience across data engineering, AI/ML, and full-stack development.
+Software engineer with 2.5+ years of experience building data pipelines, ML systems, and full-stack applications in production environments.
 
-I started my career at **Persistent Systems**, a multinational IT company in India, where my client was **HDFC Bank**, one of the largest private banks in the country. I was on the data engineering team responsible for credit-risk and compliance reporting systems. The bank needed to track millions of customer transactions daily for credit-risk analysis, detect suspicious transactions in real-time for fraud, and report everything to regulators accurately and on time. I built and optimized the data pipelines that made all of that happen, both batch ETL for overnight reporting and real-time streaming for fraud detection. Working in banking taught me what "production-grade" actually means. When regulators are waiting on your data, there's no room for fragile pipelines.
+I spent two years at **Persistent Systems** working with **HDFC Bank** (one of India's largest private banks) on their data engineering team. I built the batch ETL pipelines that powered credit-risk reporting and the real-time Kafka streaming pipeline that the compliance team used for fraud detection. Millions of transactions daily, regulatory deadlines, zero tolerance for bad data. That's where I learned to build systems that actually hold up under pressure.
 
-That experience pushed me to go deeper. I moved to the US and pursued my **MS in Information Systems at Northeastern University**, where I focused on machine learning, big data, and building systems from scratch. During that time, I worked as a **Research Assistant** collaborating with scientists at **Pacific Northwest National Laboratory (PNNL)** on microbial proteomics, a completely different domain but the same core challenge of processing and making sense of large-scale data.
+I moved to the US for my **Master's at Northeastern University**, and during that time worked as a **Research Assistant** with **Pacific Northwest National Laboratory (PNNL)**, building ML pipelines on Databricks to process 20+ GB of proteomic data across 50+ bacterial species. Completely different domain, same challenge: making large-scale data useful.
 
-Right now, I'm at **Leading Cities, Inc.** as a Full Stack Developer, building an innovation platform that connects startups with city governments and investors. It's the kind of project where I get to touch everything: backend AI workflows, CRM integrations, and the user-facing application. That's where I do my best work.
+Currently at **Leading Cities, Inc.** building a full-stack innovation platform that connects startups with city governments and investors. I work across the entire stack: multi-agent RAG workflows on the backend, HubSpot CRM integration on the business side, and three distinct user-facing experiences on the frontend.
 
-> I'm someone who cares about building things the right way. I'd rather spend an extra day on a reliable solution than ship something fragile. Good engineering is about making trade-offs thoughtfully, not chasing every new tool.
+I'm at my best when I can work across the full picture, not just one slice of it.
 
 ---
 
@@ -41,7 +40,7 @@ Right now, I'm at **Leading Cities, Inc.** as a Full Stack Developer, building a
     <td>
       <b>Full Stack Developer</b> · <i>Leading Cities, Inc., Boston</i>
       <br/><br/>
-      Building an innovation platform that evaluates startups, matches them to city government challenges, and connects investors. Multi-agent RAG architecture, vector search, CRM integration, three distinct user experiences.
+      Innovation platform connecting startups, city governments, and investors. Multi-agent RAG architecture with Pinecone vector search, LangGraph orchestration, HubSpot CRM integration. Three distinct user experiences.
     </td>
   </tr>
   <tr>
@@ -53,7 +52,7 @@ Right now, I'm at **Leading Cities, Inc.** as a Full Stack Developer, building a
     <td>
       <b>Research Assistant</b> · <i>Northeastern University / PNNL</i>
       <br/><br/>
-      ML pipeline on Databricks processing 20+ GB of proteomic data across 50+ bacterial species. Feature engineering, model training on 350K+ samples, mentoring incoming students on ML workflows.
+      ML pipeline on Databricks processing 20+ GB of proteomic data. PySpark, XGBoost on 350K+ samples across 50+ bacterial species. Transitioned from student to mentoring incoming researchers on ML workflows.
     </td>
   </tr>
   <tr>
@@ -65,7 +64,7 @@ Right now, I'm at **Leading Cities, Inc.** as a Full Stack Developer, building a
     <td>
       <b>Senior Software Engineer</b> · <i>Persistent Systems (Client: HDFC Bank)</i>
       <br/><br/>
-      Led the Snowflake migration with dbt, built real-time Kafka streaming for fraud detection, automated ETL orchestration with Airflow. <b>40% faster queries, 30% cost reduction.</b>
+      Led Snowflake migration with dbt (40% faster queries, 30% cost savings). Built real-time Kafka streaming for fraud detection. Automated ETL orchestration with Airflow, Slack alerting, and monitoring.
     </td>
   </tr>
   <tr>
@@ -77,7 +76,7 @@ Right now, I'm at **Leading Cities, Inc.** as a Full Stack Developer, building a
     <td>
       <b>Software Engineer</b> · <i>Persistent Systems (Client: HDFC Bank)</i>
       <br/><br/>
-      Optimized SQL on 10M+ row datasets, built Power BI dashboards for 200+ stakeholders, set up CI/CD pipelines on AWS. Foundation work that enabled everything built afterward.
+      Optimized SQL across 10M+ row datasets (25% faster processing). Built Power BI dashboards for 200+ stakeholders. Set up CI/CD with GitHub Actions and Docker on AWS (20% faster deployments).
     </td>
   </tr>
 </table>
@@ -141,16 +140,18 @@ Coursework: Data Science with Python, Machine Learning, Program Structure & Algo
 
 | Project | What It Demonstrates |
 |---|---|
-| [**SEC Financial Data Pipeline**](https://github.com/ketki-mude/SEC_Financial_Data_Processing) | Production-style batch ETL with Airflow orchestration, S3 staging, Snowflake warehouse, dbt transformations, and a real-time Streamlit dashboard |
-| [**RAG Pipeline with Airflow**](https://github.com/ketki-mude/RAG_Pipeline_with_Airflow) | Handling unstructured data end-to-end with automated PDF/web extraction, OCR, multiple chunking strategies, and vector search using Pinecone and ChromaDB |
-| [**FRED Currency Exchange**](https://github.com/ketki-mude/FRED_Currency_Exchange_Pipeline) | Incremental data pipelines using Snowpark, Snowflake Tasks and Streams, with CI/CD through GitHub Actions for automated deployments |
-| [**PDF Summarizer & QA**](https://github.com/Damg7245-BigDataIntelligence/LLM_Based_PDF_Summarizer_and_QA) | Full-stack application with LLM-powered document analysis, FastAPI backend, NLP processing, and a user-facing interface |
+| [**SEC Financial Data Pipeline**](https://github.com/ketki-mude/SEC_Financial_Data_Processing) | Production-style batch ETL with Airflow, S3, Snowflake, dbt transformations, and a real-time Streamlit dashboard |
+| [**RAG Pipeline with Airflow**](https://github.com/ketki-mude/RAG_Pipeline_with_Airflow) | Handling unstructured data end-to-end: automated PDF/web extraction, OCR, multiple chunking strategies, vector search with Pinecone and ChromaDB |
+| [**FRED Currency Exchange**](https://github.com/ketki-mude/FRED_Currency_Exchange_Pipeline) | Incremental data pipelines with Snowpark, Snowflake Tasks and Streams, CI/CD through GitHub Actions |
+| [**PDF Summarizer & QA**](https://github.com/Damg7245-BigDataIntelligence/LLM_Based_PDF_Summarizer_and_QA) | Full-stack application with LLM-powered document analysis, FastAPI backend, and user-facing interface |
 
 ---
 
 <div align="center">
   
-  **Open to opportunities in Software Engineering, Data Engineering, AI/ML & Full-Stack Development**
+  **Looking for roles in Software Engineering, Data Engineering, AI/ML, and Full-Stack Development**
+  
+  Especially interested in teams building data-intensive products where engineering quality matters.
   
   [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ketki-mude/)
   
