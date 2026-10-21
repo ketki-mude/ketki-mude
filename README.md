@@ -16,7 +16,7 @@
 
 ## About Me
 
-Software engineer with 2.5+ years of experience building data pipelines, ML systems, and full-stack applications in production environments.
+Software engineer with 3+ years of experience building data pipelines, ML systems, and full-stack applications in production environments.
 
 I spent two years at **Persistent Systems** working with **HDFC Bank** (one of India's largest private banks) on their data engineering team. I built the batch ETL pipelines that powered credit-risk reporting and the real-time Kafka streaming pipeline that the compliance team used for fraud detection. Millions of transactions daily, regulatory deadlines, zero tolerance for bad data. That's where I learned to build systems that actually hold up under pressure.
 
