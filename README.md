@@ -23,19 +23,7 @@
       <b>2026 – Now</b>
       <br/><br/>
     </td>
-    <td>
-      <b>Full Stack Developer</b> · <i>Leading Cities, Inc., Boston</i>
-      <br/><br/>
-      Innovation platform connecting startups, city governments, and investors. Multi-agent RAG architecture with Pinecone vector search, LangGraph orchestration, HubSpot CRM integration. Three distinct user experiences.
-    </td>
-  </tr>
-  <tr>
-    <td width="140" align="center">
-      <br/>
-      <b>2025</b>
-      <br/><br/>
-    </td>
-    <td>
+
       <b>Research Assistant</b> · <i>Northeastern University / PNNL</i>
       <br/><br/>
       ML pipeline on Databricks processing 20+ GB of proteomic data. PySpark, XGBoost on 350K+ samples across 50+ bacterial species. Transitioned from student to mentoring incoming researchers on ML workflows.
